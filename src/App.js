@@ -1,5 +1,5 @@
 import logo from "./logokth.png";
-import poster from "./poster.png";
+import poster from "./poster2.png";
 import "./App.css";
 
 function App() {
