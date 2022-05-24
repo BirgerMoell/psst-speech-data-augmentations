@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/psst-speech-data-augmentations/static/css/main.2ae99fba.css",
+    "main.js": "/psst-speech-data-augmentations/static/js/main.6461b090.js",
+    "static/js/787.c800b668.chunk.js": "/psst-speech-data-augmentations/static/js/787.c800b668.chunk.js",
+    "static/media/poster.png": "/psst-speech-data-augmentations/static/media/poster.72f4b5406c67c170115e.png",
+    "static/media/logokth.png": "/psst-speech-data-augmentations/static/media/logokth.a4fe362279306e84988d.png",
+    "index.html": "/psst-speech-data-augmentations/index.html",
+    "main.2ae99fba.css.map": "/psst-speech-data-augmentations/static/css/main.2ae99fba.css.map",
+    "main.6461b090.js.map": "/psst-speech-data-augmentations/static/js/main.6461b090.js.map",
+    "787.c800b668.chunk.js.map": "/psst-speech-data-augmentations/static/js/787.c800b668.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae99fba.css",
+    "static/js/main.6461b090.js"
+  ]
+}
